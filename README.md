@@ -14,6 +14,7 @@ Tables:
 | user_info                          |
 +------------------------------------+
 
+(Roles Data must be entered after the tables are created)
 Roles Table Data:
 +----+---------------+
 | id | role          |
